@@ -42,7 +42,7 @@
         android:drawableStart="@drawable/ic_email"
         android:ems="10"
         android:hint="Email"
-        android:text="stevi.ema@amikom.ac.id"
+        android:text="krishna.nugraha19@students.amikom.ac.id"
         android:textSize="13sp"
         android:inputType="textEmailAddress"
         app:layout_constraintEnd_toEndOf="parent"
