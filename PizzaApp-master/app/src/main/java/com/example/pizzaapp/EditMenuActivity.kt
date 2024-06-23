@@ -35,7 +35,7 @@ class EditMenuActivity : AppCompatActivity() {
         //instance
         image = findViewById(R.id.editImageMenu)
         val textId : TextView = findViewById(R.id.editId)
-        val textName : EditText = findViewById(R.id.editName)
+        val textName :  = findViewById(R.id.editName)
         val textPrice : EditText = findViewById(R.id.editPrice)
         val btnAddImage: Button = findViewById(R.id.buttonEditImage)
         val btnUpdateMakanan : Button = findViewById(R.id.buttonSaveEditMenu)
